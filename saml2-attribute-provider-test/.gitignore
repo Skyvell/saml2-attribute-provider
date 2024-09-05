@@ -23,3 +23,5 @@ gradle-app.setting
 
 # Ignore the out directory
 /out/
+
+.DS_Store
